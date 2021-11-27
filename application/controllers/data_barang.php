@@ -1,4 +1,4 @@
-<?ph
+<?php
 class Data_barang extends CI_Controller{
 
     public function  index()
