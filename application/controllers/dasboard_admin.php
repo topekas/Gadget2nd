@@ -1,4 +1,4 @@
-<?php
+<?ph
 class Dasboard_admin extends CI_Controller{
 
     public function index(){
