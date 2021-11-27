@@ -7,4 +7,4 @@ class Dasboard_admin extends CI_Controller{
         $this->load->view('admin/dasboard_admin');
         $this->load->view('templates_admin/footer');
     }
-}.
+}
