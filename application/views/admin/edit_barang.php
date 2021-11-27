@@ -1,4 +1,4 @@
-<div class="container-fluid"
+<div class="container-fluid">
     <h3><i class="fas fa-edit"></i>EDIT DATA BARANG</h3>
 
     <?php foreach($barang as $brg) : ?>
