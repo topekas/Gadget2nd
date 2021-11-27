@@ -1,4 +1,4 @@
-<?php
+<?ph
 
 class Dashboard extends CI_Controller{
 
